@@ -2,7 +2,7 @@ body{
 background-color:#99BBFF;
 }
 
-p,p1{
+p{
 font-family:Courier;
 font-size: 150%;
 color:white
@@ -12,7 +12,7 @@ h1,h2{
 color:white
 }
 
-h3{
+h3,p1{
 color:white;
 font-family: Garamond
 }
