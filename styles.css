@@ -20,4 +20,6 @@ font-size: 175%
 
 h1{
   border-style: double;
+  border-width: 2px;
+  border-color: #0055ff
 }
