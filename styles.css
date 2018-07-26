@@ -17,3 +17,7 @@ color:white;
 font-family: Garamond;
 font-size: 175%
 }
+
+h1{
+  border-style: double;
+}
